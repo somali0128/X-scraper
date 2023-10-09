@@ -1,7 +1,7 @@
 # Name and metadata of your task
 task_name: 'Twitter Crawler v5.1'
 author: 'Soma'
-description: 'We invite you to volunteer your spare Twitter account to help us archive the #koii hashtag community or any keyword of your preference. This initiative is a not-for-profit endeavor, sponsored by the Koii Foundation. Before participating, please ensure that your volunteer Twitter account has passed the verification process.'
+description: 'This the beta task. We invite you to volunteer your spare Twitter account to help us archive the #koii hashtag community or any keyword of your preference. This initiative is a not-for-profit endeavor, sponsored by the Koii Foundation. Before participating, please ensure that your volunteer Twitter account has passed the verification process.'
 repositoryUrl: 'https://github.com/koii-network/task-examples'
 imageUrl: 'imageUrl'
 
@@ -59,7 +59,7 @@ requirementsTags:
 # OPTIONAL variables variables for creating task / REQUIRED variables for update task
 
 # OPTIONAL Only provide the taskId if you are updating the task otherwise leave blank
-task_id: '9cQSLCR4LrqqqiZjDRveBBngKPbeBPvVTah7NBYgbPvM'
+task_id: '9Qhz9o1cFgVkvh7XgGmnguLhCYPdunx1BG1HnBWxA6XW'
 
 # Provide the description for changes made in new version of task
-migrationDescription: 'Release v5 of the Twitter Crawler task. This version adds the ability to specify the keyword to search for in Twitter. Also the task is more stable now.'
+migrationDescription: 'Release v5.1 of the Twitter Crawler task. This version adds the ability to specify the keyword to search for in Twitter. Also increase the submission window.'
